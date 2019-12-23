@@ -42,3 +42,17 @@ See pages 85-91 of "<strong>Deep Learning with Python</strong>" by Francois Chol
 - As an evaluation metric, mean absolute error (MAE) can be used.
 -  When little training data is available, <strong>K-fold cross-validation</strong> is a powerful method to reliably evaluate a model.
 - When little training data is available, it is preferable to use a small network with few hidden layers (typically one or two) in order to avoid overfitting. 
+
+## [chap4-1_overfitting_regularization_dropout](https://github.com/ksonod/deep_learning_with_python/blob/master/chap4-1_overfitting_regularization_dropout.ipynb)  
+<strong>Abstract</strong>  
+In this notebook, various neural networks will be build to learn <strong>overfitting</strong> and <strong>regularization</strong>.
+
+<strong>Reference</strong>  
+See pages 104-118 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
+
+<strong>Summary (page 118)</strong>  
+Below are knacks for avoiding overfitting:
+- Get more training data.
+- Reduce the capacity of the network.
+- Add weight regularization.
+- Add dropout.
