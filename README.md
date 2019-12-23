@@ -6,7 +6,7 @@ MNIST handwritten digits are classified using a fully-connected neural network.
 
 ## [chap3-1_binary_classification_IMDB](https://github.com/ksonod/deep_learning_with_python/blob/master/chap3-1_binary_classification_IMDB.ipynb)
 <strong>Abstract</strong>    
-In this notebook, neural networks will be build for classifying movie reviews provided by IMDB. This is a <strong>binary classification</strong> example.
+In this notebook, neural networks will be build for classifying movie reviews provided by IMDB. This is a <strong>binary classification</strong> example.   
 <strong>Reference</strong>    
 See pages 68-77 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
 <strong>Summary (page 77)</strong>    
