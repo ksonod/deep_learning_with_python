@@ -8,7 +8,7 @@ MNIST handwritten digits are classified using a fully-connected neural network.
 <strong>Abstract</strong>    
 In this notebook, neural networks will be build for classifying movie reviews provided by IMDB. This is a <strong>binary classification</strong> example.   
 <strong>Reference</strong>    
-See pages 68-77 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
+See pages 68-77 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018).  
 <strong>Summary (page 77)</strong>    
 - For a binary classification problem, the final activation function should be sigmoid, which returns a value between 0 and 1.
 - An appropreate loss function is binary_crossentropy.
