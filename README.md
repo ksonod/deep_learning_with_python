@@ -59,3 +59,23 @@ Below are knacks for avoiding overfitting:
 - Reduce the capacity of the network.
 - Add weight regularization.
 - Add dropout.
+
+
+## [chap5-1_overfitting_regularization_dropout](https://github.com/ksonod/deep_learning_with_python/blob/master/chap4-<strong>Abstract</strong>  
+
+In this notebook, a convolutional neural network will be build using [Keras](https://keras.io). A basic usage will be described.
+- Number of parameters.
+- Sizes of inputs and outputs.
+- [Convolution](https://keras.io/layers/convolutional/)
+- [Max pooling](https://keras.io/layers/pooling/)
+- Padding
+
+<strong>Reference</strong>  
+See pages 120-129 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
+
+<strong>Summary</strong>  
+- Convolution layers learn local patters in contrast to dense layers that learn global patters (page 122, 123, see also Fig. 5.2).  
+- The patterns that the convolutional neural networks learn are translation invariant (page 123). 
+- The convolution is typycally done with the convolution window is 3 x 3 or 5 x 5 (page 124) and no stride (page 128).
+- The max-pooling operation is used (page 127) to downsample the feature map, which results in reducing the number of feature-map coefficients to process (page 128). This operation is done with 2 x 2 windows with stride 2 in order to downsample the feature maps by a factor of 2 (page 127-128). 
+- Even though there are other ways to achieve downsampling, max pooling tends to work better (page 129).
