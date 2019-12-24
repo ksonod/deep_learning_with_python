@@ -4,7 +4,7 @@ This repository includes my notebooks on the book "Deep Learning with Python" by
 - [Official GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks) by Francois Chollet.
 - [Manning publications](https://www.manning.com/books/deep-learning-with-python)  
 
-## chap2-1_first_neural_network_for_recognizing_handwritten_digits  
+## [chap2-1_first_neural_network_for_recognizing_handwritten_digits](https://github.com/ksonod/deep_learning_with_python/blob/master/chap2-1_first_neural_network_for_recognizing_handwritten_digits.ipynb)  
 MNIST handwritten digits are classified using a fully-connected neural network.
 
 ## [chap3-1_binary_classification_IMDB](https://github.com/ksonod/deep_learning_with_python/blob/master/chap3-1_binary_classification_IMDB.ipynb)
