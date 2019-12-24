@@ -1,7 +1,7 @@
 # deep_learning_with_python
 This repository includes my notebooks on the book "Deep Learning with Python" by Francois Chollet (2018). This series of notebooks show how to build neural networks using Keras.   
 - [Keras documentation](https://keras.io)
-- [Official GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks) by Francois Chollet. Sample codes in this book are available on this GitHub page.
+- [Official GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks) by Francois Chollet.
 - [Manning publications](https://www.manning.com/books/deep-learning-with-python)  
 
 ## chap2-1_first_neural_network_for_recognizing_handwritten_digits  
