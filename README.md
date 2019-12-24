@@ -64,7 +64,6 @@ Below are knacks for avoiding overfitting:
 ## [chap5-1_basics_of_convolutional_neural_network](https://github.com/ksonod/deep_learning_with_python/blob/master/chap5-1_basics_of_convolutional_neural_network.ipynb)
 
 <strong>Abstract</strong>  
-
 In this notebook, a convolutional neural network will be build using [Keras](https://keras.io). A basic usage will be described.
 - Number of parameters.
 - Sizes of inputs and outputs.
