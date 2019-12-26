@@ -80,3 +80,16 @@ See pages 120-129 of "<strong>Deep Learning with Python</strong>" by Francois Ch
 - The convolution is typycally done with the convolution window is 3 x 3 or 5 x 5 (page 124) and no stride (page 128).
 - The max-pooling operation is used (page 127) to downsample the feature map, which results in reducing the number of feature-map coefficients to process (page 128). This operation is done with 2 x 2 windows with stride 2 in order to downsample the feature maps by a factor of 2 (page 127-128). 
 - Even though there are other ways to achieve downsampling, max pooling tends to work better (page 129).
+
+
+## [chap5-2_cats_vs_dogs](https://github.com/ksonod/deep_learning_with_python/blob/master/chap5-2_cats_vs_dogs.ipynb)
+<strong>Abstract</strong>  
+In this notebook, convolutional neural networks will be build to classify cats and dogs. You will see how to build convolutional neural networks, implement data augmentation, do feature extraction, and perform fine-tuning. 
+
+<strong>Reference</strong>  
+See pages 130-159 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
+
+<strong>Summary (page 159)</strong>  
+- Data augmentation is a powerful method to avoid overfitting when working with image data.
+- You can reuse an existing convolutional neural networks on a new dataset via feature extraction.
+- As a complement to feature extraction, you can use fine-tuning.
