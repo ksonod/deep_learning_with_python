@@ -92,4 +92,16 @@ See pages 130-159 of "<strong>Deep Learning with Python</strong>" by Francois Ch
 <strong>Summary (page 159)</strong>  
 - Data augmentation is a powerful method to avoid overfitting when working with image data.
 - You can reuse an existing convolutional neural networks on a new dataset via feature extraction.
-- As a complement to feature extraction, you can use fine-tuning.
+- As a complement to feature extraction, you can use fine-tuning.  
+  
+ 
+## [chap5_3_visualizing_intermediate_activations](https://github.com/ksonod/deep_learning_with_python/blob/master/chap5_3_visualizing_intermediate_activations.ipynb)
+
+<strong>Abstract</strong>  
+In this notebook, Intermediate outputs of convolutional neural networks will be visualized.
+
+<strong>Reference</strong>  
+See pages 160-166 of "<strong>Deep Learning with Python</strong>" by Francois Chollet (2018). 
+
+<strong>Summary (page 160)</strong>  
+Visualization of intermediate outputs of convnet (intermediate activations) is useful for understanding how successive convnet layers transform their input and for getting an idea of the meaning of individual convnet filters.
